@@ -5,7 +5,7 @@ if (!defined('IN_CFG')) {
 }
 
 //database connection
-$dbhost = "10.0.30.31";
+$dbhost = "";
 $dbuname = "root";
 $dbpass = "PicioPacio2017";
 $dbname = "wsp-api";

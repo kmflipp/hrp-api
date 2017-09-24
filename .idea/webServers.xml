@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d5c549e4-8c9b-4a9a-a4a3-5157abdcaab4" name="api-dev.hrpersonas.com" url="http://api-dev.hrpersonas.com">
+        <fileTransfer host="10.0.20.10" port="22" privateKey="$USER_HOME$/Cloudbead/Sys/hrpersonas-dev.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
